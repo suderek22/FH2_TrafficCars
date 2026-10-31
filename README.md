@@ -1,3 +1,6 @@
+<img width="1919" height="1068" alt="trafficcar" src="https://github.com/user-attachments/assets/9ac83338-d1d8-4844-b01f-62cd1c8e02c0" />
+
+
 # TrafficCars v1.0.0
 
 A mod for Forza Horizon 2 (Azimuth 1.0.0.64) that empties the game database's `TrafficCars` table, so traffic cars are no longer treated as a separate, restricted set and can be used like other cars (for example from car packs).
