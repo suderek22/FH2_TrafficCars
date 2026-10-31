@@ -3,15 +3,7 @@
 
 # TrafficCars v1.0.0
 
-A mod for Forza Horizon 2 (Azimuth 1.0.0.64) that empties the game database's `TrafficCars` table, so traffic cars are no longer treated as a separate, restricted set and can be used like other cars (for example from car packs).
-
-## How it works
-
-The FH2 Mod Platform runs SQL from mods against a copy of `media\Stripped\gamedbRC.slt` and serves the copy through `mediaoverride`. This mod queues one statement:
-
-```
-DELETE FROM TrafficCars;
-```
+A mod for Forza Horizon 2 (Azimuth 1.0.0.64) that empties the game database's `TrafficCars` table, so traffic cars are no longer treated as a separate and can be bought from autoshow.
 
 The original database is not touched. The game reads the database once at startup, so restart the game after installing or removing the mod.
 
