@@ -7,6 +7,8 @@ A mod for Forza Horizon 2 (Azimuth 1.0.0.64) that empties the game database's `T
 
 The original database is not touched. The game reads the database once at startup, so restart the game after installing or removing the mod.
 
+FH2MP do not allow for modified gamedbRC to be used- in online this mod's changes are automatically surpressed by FH2MP.
+
 ## Requirements
 
 - [FH2 Mod Platform](https://github.com/Trinculo54/FH2-Mod-Platform) v2.8.0 or newer.
